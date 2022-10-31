@@ -41,6 +41,7 @@ Additionally students will learn how to create circuit schematics and PCB board 
 3. Modify the design to fit our specific mission needs
 
 ## Design Decisions
+Decided to base our power system primarily off of FloripaSat-1's power system
 
 ## Design Misc
 
