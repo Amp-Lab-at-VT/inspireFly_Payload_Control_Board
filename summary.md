@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+joe Esser
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+This is the board design for a electric power subbly going on ContentCube-1
 
 # Date Started
-11-16-2000
+01-27-2023
