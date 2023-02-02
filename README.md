@@ -1,1 +1,1 @@
-# inspireFly_Cubesat_Power_Supply
+# inspireFly Cubesat Power Supply
