@@ -1,4 +1,4 @@
-# inspireFly_Cubesat_Power_Supply
+# inspireFly_Cubesat_Payload_Controller
 ---
 layout: project_template
 title: Power Supply
